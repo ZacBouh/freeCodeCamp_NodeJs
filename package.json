@@ -20,5 +20,6 @@
     "express",
     "api",
     "freecodecamp"
-  ]
+  ],
+  "license": "MIT"
 }
