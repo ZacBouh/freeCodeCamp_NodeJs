@@ -12,5 +12,12 @@
     "url": "https://idontknow/todo.git"
   },
   "author": "Zac",
-  "description": "A project to learn nodeJs and express"
+  "description": "A project to learn nodeJs and express",
+  "keywords": [
+    "json",
+    "heroku",
+    "nodejs",
+    "express",
+    "api"
+  ]
 }
